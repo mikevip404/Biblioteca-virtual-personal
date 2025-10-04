@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "genero": "Fantasía",
+        "anio": 1997,
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez ",
+        "genero": "Realismo Mágico / Novela ",
+        "anio": 1967,
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "El Principito",
+        "autor": " Antoine de Saint-Exupéry ",
+        "genero": "Novela corta / Fábula ",
+        "anio": 1943,
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes ",
+        "genero": "Novela / Clásico ",
+        "anio": 1605,
+        "estado": "pendiente"
+    }
+]
